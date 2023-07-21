@@ -1,0 +1,11 @@
+document.write("Olá Gente bonita!!! HELLO WORLD");
+document.getElementById("item1").innerHTML = "Olá meu nome é Goku";
+document.getElementById("item2").innerHTML = "Document é um elemento que diz para o java obter um documento por id, então damos um nome para esse id e o innerHTML é um processo que insere essa informação no código";
+let nome = "<br>Arthur e os Esquilos String são variáveis do tipo texto";
+document.writeln(nome);
+nome = "Renan e os lobos";
+document.writeln(nome);
+let x = 4;
+let y = 3;
+let resultado = x*y;
+document.writeln("<br>O resultado da multiplicação é: "+resultado+"<br>");
